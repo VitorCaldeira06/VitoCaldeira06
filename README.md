@@ -1,6 +1,6 @@
-- Hello World! Eu sou o Vitor Caldeira!
-- Aprimorando conhecimento em JavaScript e Python.
-- Apaixonado por computadores e computacão.
+- <p align="center">
+     <img src="" alt=>
+  </p>
 <div align="left">
   <a href="https://github.com/VitorCaldeira06">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VitorCaldeira06&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/> 
