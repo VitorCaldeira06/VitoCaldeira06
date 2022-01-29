@@ -1,4 +1,4 @@
-- <p align="center">
+<p align="center">
      <img src="assets/Header GitHub.gif" alt="- Hello World! I'm Vitor Caldeira!
                                               - Improving knowledge in JavaScript and Python.
                                               - Passionate about computers and computing.">
