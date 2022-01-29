@@ -1,4 +1,4 @@
-- Hello Wordl! Eu sou o Vitor Caldeira!
+- Hello World! Eu sou o Vitor Caldeira!
 - Aprimorando conhecimento em JavaScript e Python.
 - Apaixonado por computadores e computacão.
 <div align="left">
