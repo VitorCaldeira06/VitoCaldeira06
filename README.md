@@ -1,5 +1,7 @@
 - <p align="center">
-     <img src="" alt=>
+     <img src="assets/Header GitHub.gif" alt="- Hello World! I'm Vitor Caldeira!
+                                              - Improving knowledge in JavaScript and Python.
+                                              - Passionate about computers and computing.">
   </p>
 <div align="left">
   <a href="https://github.com/VitorCaldeira06">
